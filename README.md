@@ -127,7 +127,6 @@ If you see output similar to below and you have the commands enabled in your Sla
 2015/06/07 23:26:56 Registered: roll
 2015/06/07 23:26:56 Registered: ping
 2015/06/07 23:26:56 Registered: nihongo
-2015/06/07 23:26:56 Registered: bots
 2015/06/07 23:26:56 Registered: decide
 2015/06/07 23:26:56 Registered: bot
 2015/06/07 23:26:56 Registered: bijin
